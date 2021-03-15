@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-starter-ghost",
+  "name": "blog",
   "version": "1.0.0",
   "description": "A starter template to build websites with Ghost & Eleventy",
   "main": ".eleventy.js",
